@@ -19,6 +19,10 @@
 
 @implementation VTHomeViewController
 
+- (void)ceshi
+{
+    NSLog(@"hello");
+}
 #pragma mark - Lifecycle
 - (void)viewDidLoad {
     [super viewDidLoad];
